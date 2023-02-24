@@ -1,0 +1,138 @@
+[
+    {
+        "departmentId": "clehix0ky0040vbcgyhc7ij57",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "General Patrol Unit",
+        "position": 0
+    },
+    {
+        "departmentId": "clehix0ky0040vbcgyhc7ij57",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Drug Recognition Expert",
+        "position": 1
+    },
+    {
+        "departmentId": "clehix0ky0040vbcgyhc7ij57",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Strategic Response Team",
+        "position": 2
+    },
+    {
+        "departmentId": "clehix0ky0040vbcgyhc7ij57",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Paleto Bay Patrol Unit",
+        "position": 3
+    },
+    {
+        "departmentId": "clehix0ky0040vbcgyhc7ij57",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Sandy Shores Patrol Unit",
+        "position": 4
+    },
+    {
+        "departmentId": "clehixa720043vbcg7t35ara3",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Strategic Response Team",
+        "position": null
+    },
+    {
+        "departmentId": "clehixia70046vbcg0fh2k8ru",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Drug Recognition Expert",
+        "position": null
+    },
+    {
+        "departmentId": "clehixia70046vbcg0fh2k8ru",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Patrol",
+        "position": null
+    },
+    {
+        "departmentId": "clehixia70046vbcg0fh2k8ru",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Commercial Vehicle Enforcement",
+        "position": null
+    },
+    {
+        "departmentId": "clehixia70046vbcg0fh2k8ru",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Department of Public Safety",
+        "position": null
+    },
+    {
+        "departmentId": "clehix0ky0040vbcgyhc7ij57",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Medical Certified",
+        "position": null
+    },
+    {
+        "departmentId": "clehixa720043vbcg7t35ara3",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Medical Certified",
+        "position": null
+    },
+    {
+        "departmentId": "clehixia70046vbcg0fh2k8ru",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Medical Certified",
+        "position": null
+    },
+    {
+        "departmentId": "clehixa720043vbcg7t35ara3",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Patrol",
+        "position": null
+    },
+    {
+        "departmentId": "clehixa720043vbcg7t35ara3",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Traffic Enforcement",
+        "position": null
+    },
+    {
+        "departmentId": "clehix0ky0040vbcgyhc7ij57",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "Traffic Enforcement",
+        "position": null
+    },
+    {
+        "departmentId": "clehixa720043vbcg7t35ara3",
+        "callsign": "",
+        "pairedUnitTemplate": null,
+        "extraFields": null,
+        "value": "\tDrug Recognition Expert",
+        "position": null
+    }
+]

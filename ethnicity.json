@@ -1,0 +1,884 @@
+[
+    {
+        "value": "General Patrol Unit",
+        "isDefault": false,
+        "position": 0,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Drug Recognition Expert",
+        "isDefault": false,
+        "position": 1,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Strategic Response Team",
+        "isDefault": false,
+        "position": 2,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Paleto Bay Patrol Unit",
+        "isDefault": false,
+        "position": 3,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Sandy Shores Patrol Unit",
+        "isDefault": false,
+        "position": 4,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "A-",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "ATP - Commercial Multi-Engine License",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "MCP - Multi-Crew Pilot",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "CFI - Certified Flight Instructor",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "CFII - Certified Flight Instructor (Instrument)",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "MEI - Multi-Engine Instructor",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Aquatic License",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "General Boat Driving License",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Personal Watercraft License",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Private Mooring License",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Type 01 - Dealer in Firearms Other Than Destructive Devices",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Type 02 - Pawnbroker in Firearms Other Than Destructive Devices",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Type 03 - Collector of Curios and Relics",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Type 06 - Manufacturer of Ammunition for Firearms Other Than Ammunition for Destructive Devices or Armor Piercing Ammunition",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Sex Offender",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Violent",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Blaine County Sheriffs Office",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Los Santos Police Department",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "San Andreas Highway Patrol",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Male",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Female",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Type 07 - Manufacturer of Firearms Other Than Destructive Devices",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Type 08 - Importer of Firearms Other Than Destructive Devices or Ammunition for Firearms Other Than Destructive Devices, or Ammunition Other Than Armor Piercing Ammunition",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Type 09 - Dealer in Destructive Devices",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Type 10 - Manufacturer of Destructive Devices, Ammunition for Destructive Devices or Armor Piercing Ammunition",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Type 11 - Importer of Destructive Devices, Ammunition for Destructive Devices or Armor Piercing Ammunition",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Valid",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": "LICENSE",
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Invalid",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": "LICENSE",
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Expired",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": "LICENSE",
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Valid",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": "REGISTRATION_STATUS",
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Invalid",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": "REGISTRATION_STATUS",
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Expired",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": "REGISTRATION_STATUS",
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Valid",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": "INSURANCE_STATUS",
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Expired",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": "INSURANCE_STATUS",
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Invalid",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": "INSURANCE_STATUS",
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "SNS Pistol",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "M - Motorcycle",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "DJ – Junior Driver",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "C/D - Standard Drivers License",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "E – Taxi & Livery",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "B – Buses and Recreational Vehicle",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "PPL - Private Pilot",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "IR - Instrument Rating",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "CSEL - Commercial Single-Engine License",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "CMEL - Commercial Multi-Engine License",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Stolen",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Handicap",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Government Vehicle",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Pistol",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Combat Pistol",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Heavy Pistol",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "AP Pistol",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Assault Rifle",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Sniper Rifle",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Pump Shotgun",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Dodge Charger",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Business Owner",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Business Co-Owner",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Business Manager",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Business Employee",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Caucasion",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "African American",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Pacific Islander",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Afrikaners",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Arab",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Basque",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Assyrian",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "India",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Israeli",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Hispanic/Latino",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Middle Eastern",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Mixed Ethnicity",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Native American",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Vietnamese American",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Asian",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Davis PD Impound Lot",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Patrol",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Traffic Enforcement",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Traffic Enforcement",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "\tDrug Recognition Expert",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Strategic Response Team",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Drug Recognition Expert",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Patrol",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Commercial Vehicle Enforcement",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Department of Public Safety",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Medical Certified",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Medical Certified",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "O+",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "Medical Certified",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "O-",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "B+",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "B-",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    },
+    {
+        "value": "A+",
+        "isDefault": false,
+        "position": null,
+        "isDisabled": false,
+        "licenseType": null,
+        "officerRankImageId": null,
+        "officerRankImageBlurData": null
+    }
+]

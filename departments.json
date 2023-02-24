@@ -1,0 +1,41 @@
+[
+    {
+        "callsign": "",
+        "whitelisted": true,
+        "isDefaultDepartment": false,
+        "type": "LEO",
+        "statusValueId": null,
+        "defaultOfficerRankId": null,
+        "isConfidential": false,
+        "extraFields": null,
+        "defaultOfficerRank": null,
+        "value": "Blaine County Sheriffs Office",
+        "position": null
+    },
+    {
+        "callsign": "",
+        "whitelisted": true,
+        "isDefaultDepartment": false,
+        "type": "LEO",
+        "statusValueId": null,
+        "defaultOfficerRankId": null,
+        "isConfidential": false,
+        "extraFields": null,
+        "defaultOfficerRank": null,
+        "value": "Los Santos Police Department",
+        "position": null
+    },
+    {
+        "callsign": "",
+        "whitelisted": false,
+        "isDefaultDepartment": false,
+        "type": "LEO",
+        "statusValueId": null,
+        "defaultOfficerRankId": null,
+        "isConfidential": false,
+        "extraFields": null,
+        "defaultOfficerRank": null,
+        "value": "San Andreas Highway Patrol",
+        "position": null
+    }
+]
